@@ -11,8 +11,9 @@ body{
 header{
     background-color: aliceblue;
     
-    width: 18vw;
+    width: auto;
     height: 100vh;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -37,4 +38,14 @@ h1{
 }
 #download-file{
     margin-top: 20px;
+    padding: 20px 25px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: white;
+    border-style: dashed;
+    border-color: white;
+
 }
