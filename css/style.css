@@ -4,7 +4,6 @@
 
 body{
     margin: 0;
-    padding: 0;
     background-image: url('../img/background.png');
     background-attachment: fixed;
     display: flex;
@@ -22,8 +21,9 @@ header{
     justify-content: center;
     backdrop-filter: blur(5px);
     box-shadow: 15px 0px 25px rgba(0, 0, 0, 0.158);
-    top: 1;
+    position: fixed;
     z-index: 1;
+    
 }
 #profile-image{
     filter: drop-shadow(0px 0px 8px rgb(15, 15, 15));
@@ -78,8 +78,8 @@ h1{
     color: white;
     border-style: dashed ;
     border-color: 1px white;
-    transition: color 350ms;
     filter: drop-shadow(0px 0px 8px rgb(15, 15, 15));
+    transition: color 350ms;
     transition: filter 350ms;
     
 }
@@ -112,11 +112,35 @@ h1{
     transition: 350ms ease-in-out;
 }
 
+main{
+    padding-left: 15%;
+}
 #about-me{
-    background-color: red;
+    width: 80%;
+    background-color: rgba(250, 250, 250, 0.027);
+    backdrop-filter: blur(5px);
+    box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.404);
     margin: 70px 0px 0px 80px;
     padding: 30px;
-    width: 80%;
     display: flex;
+    color: white;
     font-size: 26px;
+    border-radius: 20px;
+}
+#text-aboutme{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#text-content{
+    width: 50%;
+}
+h3{
+    width: 195px;
+    border-bottom: 2px solid #62CAE1;
+}
+
+#dev-ilustration{
+    max-width: 530px;
+    max-height: 530px;
 }
