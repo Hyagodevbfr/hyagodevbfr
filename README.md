@@ -8,9 +8,9 @@
 -  🖥️ Já criei inúmeros blogs desde 2010, na platamorma Blogger, infelizmente nenhum foi pra frente.
 -  🖥️ Editava meus próprios templates no Blogger, usando HTML e CSS (versões antigas).
 -  🖥️ Já tive vários canais no YouTube desde 2011, sobre tutoriais, games e o ultimo e atual, sobre a experiência de deixar o cabelo crescer.
--  🖥️ Em maio/2022 decidi voltar à essa grande paixão que é criar sites, mas dessa vez com foco na minha melhor performance.
--  🖥️ Por problemas pessoais e no meu computador, me vi obrigado a parar os estudos em março de 2023, retornando apenas em dezembro.
--  🖥️ De volta aos estudos, agora estou focado em c#, me apaixonei pelo back-end.
+-  🖥️ Em maio/2022 decidi voltar à essa grande paixão que é o desenvolvimento de aplicações, mas dessa vez com foco na minha melhor performance.
+-  🖥️ Por problemas pessoais e estruturais, me vi obrigado a parar os estudos em março de 2023, retornando apenas em dezembro.
+-  🖥️ De volta aos estudos, agora estou focado em .Net, me apaixonei pelo back-end.
 -  🖥️ Nesse ano de 2024, pretendo trabalhar com programação, manterei o foco nesse objetivo!
 -  🖥️ Minha determinação em evoluir para melhorar minhas habilidades é uma das minhas melhores e mais intensas qualidades.
 -  🖥️ Torcedor intenso do Botafogo de Futebol e Regatas, o GLORIOSO ★彡
