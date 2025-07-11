@@ -1,46 +1,30 @@
-## Me chamo Hyago Brito, 25 anos.
-### Rio de Janeiro - Brasil.
-##
-## Aqui estão algumas ideias para você me conhecer:
-<img align="right" height="300" src="https://4.bp.blogspot.com/-0NQweilIv3g/WgXgE2lBViI/AAAAAAAAMv8/s2HhUJSM90wnGaV4PlZVmsxZar3sBuo3ACLcBGAs/s640/Sem%2Bt%25C3%25ADtulo.jpg" ></img>
+<h1 align="center">Hi 👋, I'm Daniel Brito</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
--  🖥️ Atualmente estudo por conta própria todas as matérias.
--  🖥️ Já criei inúmeros blogs desde 2010, na platamorma Blogger, infelizmente nenhum foi pra frente.
--  🖥️ Editava meus próprios templates no Blogger, usando HTML e CSS (versões antigas).
--  🖥️ Já tive vários canais no YouTube desde 2011, sobre tutoriais, games e o ultimo e atual, sobre a experiência de deixar o cabelo crescer.
--  🖥️ Em maio/2022 decidi voltar à essa grande paixão que é o desenvolvimento de aplicações, mas dessa vez com foco na minha melhor performance.
--  🖥️ Por problemas pessoais e estruturais, me vi obrigado a parar os estudos em março de 2023, retornando apenas em dezembro.
--  🖥️ De volta aos estudos, agora estou focado em .Net, me apaixonei pelo back-end.
--  🖥️ Nesse ano de 2024, pretendo trabalhar com programação, manterei o foco nesse objetivo!
--  🖥️ Minha determinação em evoluir para melhorar minhas habilidades é uma das minhas melhores e mais intensas qualidades.
--  🖥️ Torcedor intenso do Botafogo de Futebol e Regatas, o GLORIOSO ★彡
-##
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyagodevbfr&label=Profile%20views&color=0e75b6&style=flat" alt="hyagodevbfr" /> </p>
 
-<h2 align="center">Linguagens:</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyagodevbfr" alt="hyagodevbfr" /></a> </p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"/>
-  <img src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" height="40" width="38" alt="C# logo"/>
+- 🔭 I’m currently working on [Hotel Booking](https://github.com/Hyagodevbfr/HotelBooking)
 
-</div>
+- 🌱 I’m currently learning **English, Linux, Docker, MongoDb**
 
-#
-<h2 align="center">Contate-me</h2>
+- 📫 How to reach me **dev.danielbrito@gmail.com**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hyago-brito-184bb3242/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="https://www.instagram.com/brito.hyago/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+- ⚡ Fun fact **Passionate fan of Botafogo, the GLORIOUS ★彡**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniel-brito-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-brito-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/brito.hyago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brito.hyago" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hyagodevbfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hyagodevbfr" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hyagodevbfr/count.svg?"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyagodevbfr&show_icons=true&locale=en&layout=compact" alt="hyagodevbfr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyagodevbfr&show_icons=true&locale=en" alt="hyagodevbfr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyagodevbfr&" alt="hyagodevbfr" /></p>
