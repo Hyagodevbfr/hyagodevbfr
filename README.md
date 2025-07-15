@@ -26,13 +26,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/hyagodevbfr/hyagodevbfr/output/snake.svg" alt="Snake animation" />
-
-
-###
-
 <h3 align="left">⭐ GitHub Stats</h3>
 
 ###
