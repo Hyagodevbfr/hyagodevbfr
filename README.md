@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <br><br>- 🌱 I’m currently learning **English, Linux, Docker, MongoDb**<br><br>- ⚡ Fun fact **Passionate fan of Botafogo, the GLORIOUS ★彡**</p>
+- 🔭 I’m currently working on [ChurrascApp](https://github.com/Hyagodevbfr/ChurrascAppApi)
+
+- 🌱 I’m currently learning **English, Linux, Docker, MongoDb**
+
+- ⚡ Fun fact **Passionate fan of Botafogo, the GLORIOUS ★彡**
 
 ###
 
